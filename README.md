@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Java Developer Spring | IT teacher | Design Photoshop</p>
+<p align="left">Java Developer Spring | IT Teacher | Design Photoshop</p>
 
 ###
 
