@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre</h2>
 <p align="left">Java Developer Spring | IT teacher | Design Photoshop</p>
 
 ###
@@ -17,7 +17,7 @@
 <table>
   <tr>
       <th>
-        <h2 align="left">Techs</h2>
+        <h2 align="left">Tecnologias</h2>
         <div align="left">
           <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
           <img width="12" />
@@ -31,7 +31,7 @@
         </div>
       </th>
       <th>
-        <h2 align="left">Social media</h2>
+        <h2 align="left">Redes Sociais</h2>
 
   <div align="left">
     <a href="https://www.linkedin.com/in/marcos-roberto-1nf0mrscd3v/" target="_blank">
